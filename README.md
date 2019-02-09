@@ -5,21 +5,24 @@ A cordova plugin for the Quikkly IOS and Android SDK's. The main purpose of this
 
 To add this to your ionic app use the following
 ```sh
-ionic cordova add cordova-plugin-quikkly
+ionic cordova plugin add cordova-plugin-quikkly
 ```
 
 We also recommend the `ionic-quikkly-plugin` wrapper.
+```sh
+npm install ionic-quikkly-plugin --save
+```
 
 ---
 
 Alternatively to add to your cordova app use the following
 ```sh
-cordova add cordova-plugin-quikkly
+cordova plugin add cordova-plugin-quikkly
 ```
 
 ### Updates ###
 
-Please read [RELEASENOTES.md]() for details
+Please read [RELEASENOTES.md](RELEASENOTES.md) for details
 
 ### Usage ###
 
